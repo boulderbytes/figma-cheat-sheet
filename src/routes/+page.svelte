@@ -41,7 +41,12 @@
 				<Searchbar />
 			</div>
 			<div class={` col-start-1 row-start-1 text-right sm:flex-1`}>
-				<Button class="border border-accent bg-transparent" variant="ghost" size="icon">
+				<Button
+					class="border border-accent bg-transparent"
+					variant="ghost"
+					size="icon"
+					href="https://github.com/boulderbytes/figma-cheat-sheet"
+					target="_blank">
 					<svg role="img" viewBox="0 0 24 24" class="fill-current">
 						<title>GitHub</title>
 						<path
