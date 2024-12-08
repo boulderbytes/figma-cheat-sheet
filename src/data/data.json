@@ -1,0 +1,734 @@
+{
+	"Essential": [
+		{
+			"action": "Show/Hide UI",
+			"mac": "Ctrl + \\",
+			"windows": "Cmd + \\",
+			"description": "Press it to quickly hide the panes and focus on your work"
+		},
+		{
+			"action": "Pick color",
+			"mac": "I",
+			"windows": "I",
+			"description": "Grab a color from elsewhere without losing your flow"
+		},
+		{
+			"action": "Actions",
+			"mac": "Cmd + K",
+			"windows": "Ctrl + K",
+			"description": "Search through menus, commands, and plugins"
+		}
+	],
+	"Tools": [
+		{
+			"action": "Move tool",
+			"mac": "V",
+			"windows": "V",
+			"description": "Press it to change to the move tool"
+		},
+		{
+			"action": "Frame tool",
+			"mac": "F",
+			"windows": "F",
+			"description": "Press it to change to the frame tool"
+		},
+		{
+			"action": "Pen tool",
+			"mac": "P",
+			"windows": "P",
+			"description": "Press it to change to the pen tool"
+		},
+		{
+			"action": "Pencil tool",
+			"mac": "Shift + P",
+			"windows": "Shift + P",
+			"description": "Press it to change to the pencil tool"
+		},
+		{
+			"action": "Text tool",
+			"mac": "T",
+			"windows": "T",
+			"description": "Press it to change to the text tool"
+		},
+		{
+			"action": "Rectangle tool",
+			"mac": "R",
+			"windows": "R",
+			"description": "Press it to change to the rectangle tool"
+		},
+		{
+			"action": "Ellipse tool",
+			"mac": "O",
+			"windows": "O",
+			"description": "Press it to change to the ellipse tool"
+		},
+		{
+			"action": "Line tool",
+			"mac": "L",
+			"windows": "L",
+			"description": "Press it to change to the line tool"
+		},
+		{
+			"action": "Arrow tool",
+			"mac": "Shift + L",
+			"windows": "Shift + L",
+			"description": "Press it to change to the arrow tool"
+		},
+		{
+			"action": "View comments",
+			"mac": "C",
+			"windows": "C",
+			"description": "Press it to view comments"
+		},
+		{
+			"action": "Slice tool",
+			"mac": "S",
+			"windows": "S",
+			"description": "Press it to change to the slice tool"
+		}
+	],
+	"View": [
+		{
+			"action": "Multiplayer cursors",
+			"mac": "Cmd + Option + \\",
+			"windows": "Ctrl + Alt + \\",
+			"description": "Press it to change to the slice tool"
+		},
+		{
+			"action": "Open Dev Mode",
+			"mac": "Shift + D",
+			"windows": "Shift + D",
+			"description": "Press it to open the Dev Mode"
+		},
+		{
+			"action": "Rulers",
+			"mac": "Shift + R",
+			"windows": "Shift + R",
+			"description": "Press it to show rulers"
+		},
+		{
+			"action": "Show outlines",
+			"mac": "Cmd + Shift + O",
+			"windows": "Ctrl + Shift + O",
+			"description": "Press it to show outlines"
+		},
+		{
+			"action": "Pixel preview",
+			"mac": "Cmd + Shift + P",
+			"windows": "Ctrl + Shift + P",
+			"description": "Press it to show pixel preview"
+		},
+		{
+			"action": "Layout grids",
+			"mac": "Shift + G",
+			"windows": "Shift + G",
+			"description": "Press it to show layout grids"
+		},
+		{
+			"action": "Pixel grid",
+			"mac": "Shift + '",
+			"windows": "Shift + '",
+			"description": "Press it to show the pixel grid"
+		},
+		{
+			"action": "Open layers panel",
+			"mac": "Option + 1",
+			"windows": "Alt + 1",
+			"description": "Press it to show the layers panel"
+		},
+		{
+			"action": "Show assets",
+			"mac": "Option + 2",
+			"windows": "Alt + 2",
+			"description": "Press it to show assets"
+		},
+		{
+			"action": "Team library",
+			"mac": "Option + 3",
+			"windows": "Alt + 3",
+			"description": "Press it to show the team library"
+		},
+		{
+			"action": "Open design panel",
+			"mac": "Option + 8",
+			"windows": "Alt + 8",
+			"description": "Press it to open the design panel"
+		},
+		{
+			"action": "Open prototype panel",
+			"mac": "Option + 9",
+			"windows": "Alt + 9",
+			"description": "Press it to open the prototype panel"
+		}
+	],
+	"Zoom": [
+		{
+			"action": "Pan",
+			"mac": "Space + drag",
+			"windows": "Space + drag",
+			"description": "Pan accross the design board"
+		},
+		{
+			"action": "Zoom in",
+			"mac": "Cmd + +",
+			"windows": "Ctrl + -",
+			"description": "Zoom in"
+		},
+		{
+			"action": "Zoom out",
+			"mac": "Cmd + -",
+			"windows": "Ctrl + -",
+			"description": "Zoom out"
+		},
+		{
+			"action": "Zoom to 100%",
+			"mac": "Cmd + 0",
+			"windows": "Ctrl + 0",
+			"description": "Zoom to 100%"
+		},
+		{
+			"action": "Zoom to fit",
+			"mac": "Shift + 1",
+			"windows": "Shift + 1",
+			"description": "Zoom to fit the view board"
+		},
+		{
+			"action": "Zoom to selection",
+			"mac": "Space + drag",
+			"windows": "Space + drag",
+			"description": "Zoom to fit the selected item"
+		},
+		{
+			"action": "Zoom to next frame",
+			"mac": "N",
+			"windows": "N",
+			"description": "Zoom to the next frame"
+		},
+		{
+			"action": "Zoom to previous frame",
+			"mac": "Shift + N",
+			"windows": "Shift + N",
+			"description": "Zoom to the previous frame"
+		},
+		{
+			"action": "Previous page",
+			"mac": "Page Up",
+			"windows": "Page Up",
+			"description": "Go to the previous page"
+		},
+		{
+			"action": "Next page",
+			"mac": "Page Down",
+			"windows": "Page Down",
+			"description": "Go to the next page"
+		},
+		{
+			"action": "Find previous frame",
+			"mac": "Home",
+			"windows": "Home",
+			"description": "Go to the previous frame"
+		},
+		{
+			"action": "Find next frame",
+			"mac": "End",
+			"windows": "End",
+			"description": "Go to the next frame"
+		}
+	],
+	"Text": [
+		{
+			"action": "Bold/Italic",
+			"mac": "Cmd + B and I",
+			"windows": "Ctrl + B and I",
+			"description": "Put text in bold or italic"
+		},
+		{
+			"action": "Underline",
+			"mac": "Cmd + U",
+			"windows": "Ctrl + U",
+			"description": "Underline text"
+		},
+		{
+			"action": "Create link",
+			"mac": "Cmd + Shift + U",
+			"windows": "Ctrl + Shift + U",
+			"description": "Create a link"
+		},
+		{
+			"action": "Turn into a list",
+			"mac": "Cmd + Shift + 7 and 8",
+			"windows": "Ctrl + Shift + 7 and 8",
+			"description": "Turn items into a list"
+		},
+		{
+			"action": "Text align left",
+			"mac": "Cmd + Option + L",
+			"windows": "Ctrl + Alt + L",
+			"description": "Align text left"
+		},
+		{
+			"action": "Text align center",
+			"mac": "Cmd + Option + T",
+			"windows": "Ctrl + Alt + T",
+			"description": "Align text center"
+		},
+		{
+			"action": "Text align right",
+			"mac": "Cmd + Option + R",
+			"windows": "Ctrl + Alt + R",
+			"description": "Align text right"
+		},
+		{
+			"action": "Text align justified",
+			"mac": "Cmd + Option + J",
+			"windows": "Ctrl + Alt + J",
+			"description": "Align text justified"
+		},
+		{
+			"action": "Adjust font size",
+			"mac": "Cmd + Shift + < and >",
+			"windows": "Ctrl + Shift + < and >",
+			"description": "Align text justified"
+		},
+		{
+			"action": "Adjust font weight",
+			"mac": "Cmd + Option + < and >",
+			"windows": "Ctrl + Alt + < and >",
+			"description": "Align text justified"
+		},
+		{
+			"action": "Adjust letter spacing",
+			"mac": "Option + < and >",
+			"windows": "Alt + < and >",
+			"description": "Align text justified"
+		},
+		{
+			"action": "Adjust line height",
+			"mac": "Option + Shift + < and >",
+			"windows": "Alt + Shift + < and >",
+			"description": "Align text justified"
+		}
+	],
+	"Shape": [
+		{
+			"action": "Paint bucket",
+			"mac": "B",
+			"windows": "B",
+			"description": "Press it while editing a shape"
+		},
+		{
+			"action": "Remove fill",
+			"mac": "Option + /",
+			"windows": "Al + /",
+			"description": "Remove a fill"
+		},
+		{
+			"action": "Remove stroke",
+			"mac": "Shift + /",
+			"windows": "Shift + /",
+			"description": "Remove a stroke"
+		},
+		{
+			"action": "Swap fill and stroke",
+			"mac": "Shift + X",
+			"windows": "Shift + X",
+			"description": "Swap fill and stroke"
+		},
+		{
+			"action": "Outline stroke",
+			"mac": "Cmd + Option + O",
+			"windows": "Ctrl + Alt + O",
+			"description": "Outline a stroke"
+		},
+		{
+			"action": "Flatten selection",
+			"mac": "Cmd + E",
+			"windows": "Ctrl + E",
+			"description": "Flatten a selection"
+		},
+		{
+			"action": "Join Selection",
+			"mac": "Cmd + J",
+			"windows": "Ctrl + J",
+			"description": "After selecting points"
+		},
+		{
+			"action": "Delete and heal selection",
+			"mac": "Shift + backspace",
+			"windows": "Shift + backspace",
+			"description": "After selecting points"
+		}
+	],
+	"Selection": [
+		{
+			"action": "Select all",
+			"mac": "Cmd + A",
+			"windows": "Ctrl + A",
+			"description": "Select all"
+		},
+		{
+			"action": "Select inverse",
+			"mac": "Cmd + Shift + A",
+			"windows": "Ctrl + Shift + A",
+			"description": "Select inverse"
+		},
+		{
+			"action": "Select none",
+			"mac": "Esc",
+			"windows": "Esc",
+			"description": "Select none"
+		},
+		{
+			"action": "Deep select",
+			"mac": "Cmd + click",
+			"windows": "Ctrl + click",
+			"description": "Deep select"
+		},
+		{
+			"action": "Select children",
+			"mac": "Enter",
+			"windows": "Enter",
+			"description": "Select children"
+		},
+		{
+			"action": "Select parent",
+			"mac": "\\",
+			"windows": "\\",
+			"description": "Select parent"
+		},
+		{
+			"action": "Select next sibling",
+			"mac": "Shift + Tab",
+			"windows": "Shift + Tab",
+			"description": "Select next sibling"
+		},
+		{
+			"action": "Select previous sibling",
+			"mac": "Shift + Tab",
+			"windows": "Shift + Tab",
+			"description": "Select previous sibling"
+		},
+		{
+			"action": "Select matching layers",
+			"mac": "Cmd + Option + A",
+			"windows": "Ctrl + Alt + A",
+			"description": "Select matching layers"
+		},
+		{
+			"action": "Group selection",
+			"mac": "Cmd + G",
+			"windows": "Ctrl + G",
+			"description": "Group selection"
+		},
+		{
+			"action": "Ungroup selection",
+			"mac": "Cmd + backspace",
+			"windows": "Ctrl + backspace",
+			"description": "Ungroup selection"
+		},
+		{
+			"action": "Frame selection",
+			"mac": "Cmd + Option + G",
+			"windows": "Ctrl + Alt + G",
+			"description": "Frame selection"
+		},
+		{
+			"action": "Show/Hide selection",
+			"mac": "Cmd + Shift + H",
+			"windows": "Ctrl + Shift + H",
+			"description": "Show/Hide selection"
+		},
+		{
+			"action": "Lock/Unlock selection",
+			"mac": "Cmd + Shift + L",
+			"windows": "Ctrl + Shift + L",
+			"description": "Deep select"
+		}
+	],
+	"Cursor": [
+		{
+			"action": "Measure to selection",
+			"mac": "Option",
+			"windows": "Alt",
+			"description": "While pointing"
+		},
+		{
+			"action": "Duplicate selection",
+			"mac": "Option",
+			"windows": "Alt",
+			"description": "Hold alt and move to duplicate an item"
+		},
+		{
+			"action": "Deep select",
+			"mac": "Cmd + click",
+			"windows": "Ctrl + click",
+			"description": "While clicking"
+		},
+		{
+			"action": "Deep select within rectangle",
+			"mac": "Cmd + click",
+			"windows": "Ctrl + drag",
+			"description": "While dragging to select"
+		},
+		{
+			"action": "Resize from center",
+			"mac": "Alt",
+			"windows": "Alt",
+			"description": "While resizing"
+		},
+		{
+			"action": "Resize proportionally",
+			"mac": "Shift",
+			"windows": "Shift",
+			"description": "While resizing"
+		},
+		{
+			"action": "Crop (images)/Ignore constraints (frame)",
+			"mac": "Cmd",
+			"windows": "Ctrl",
+			"description": "While resizing"
+		}
+	],
+	"Edit": [
+		{
+			"action": "Copy",
+			"mac": "Cmd + C",
+			"windows": "Ctrl + C",
+			"description": "Copy an item"
+		},
+		{
+			"action": "Cut",
+			"mac": "Cmd + X",
+			"windows": "Ctrl + X",
+			"description": "Cut an item"
+		},
+		{
+			"action": "Paste",
+			"mac": "Cmd + P",
+			"windows": "Ctrl + P",
+			"description": "Paste an item"
+		},
+		{
+			"action": "Paste to replace",
+			"mac": "Cmd + Shift + R",
+			"windows": "Ctrl + Shift + R",
+			"description": "Paste to replace an item"
+		},
+		{
+			"action": "Paste over selection",
+			"mac": "Cmd + Shift + V",
+			"windows": "Ctrl + Shift + V",
+			"description": "Paste over selection an item"
+		},
+		{
+			"action": "Duplicate",
+			"mac": "Cmd + D",
+			"windows": "Ctrl + D",
+			"description": "Duplicate an item"
+		},
+		{
+			"action": "Rename selection",
+			"mac": "Cmd + R",
+			"windows": "Ctrl + R",
+			"description": "Rename a selection"
+		},
+		{
+			"action": "Export",
+			"mac": "Cmd + Shift + E",
+			"windows": "Ctrl + Shift + E",
+			"description": "Export"
+		},
+		{
+			"action": "Find",
+			"mac": "Cmd + F",
+			"windows": "Ctrl + F",
+			"description": "Find an item"
+		},
+		{
+			"action": "Copy as PNG",
+			"mac": "Cmd + Shift + C",
+			"windows": "Ctrl + Shift + C",
+			"description": "Copy an item as PNG"
+		},
+		{
+			"action": "Copy properties",
+			"mac": "Cmd + Option + V",
+			"windows": "Ctrl + Alt + V",
+			"description": "Find an item"
+		},
+		{
+			"action": "Paste properties",
+			"mac": "Cmd + Option + V",
+			"windows": "Ctrl + Alt + V",
+			"description": "Find an item"
+		}
+	],
+	"Transform": [
+		{
+			"action": "Flip horizontal",
+			"mac": "Shift + H",
+			"windows": "Shift + H",
+			"description": "Flip an item horizontally"
+		},
+		{
+			"action": "Flip vertical",
+			"mac": "Shift + V",
+			"windows": "Shift + V",
+			"description": "Flip an item vertically"
+		},
+		{
+			"action": "Use as mask",
+			"mac": "Cmd + Option + M",
+			"windows": "Ctrl + Alt + M",
+			"description": "Find an item"
+		},
+		{
+			"action": "Edit shape or image",
+			"mac": "Enter",
+			"windows": "Enter",
+			"description": "Edit a shape or an image"
+		},
+		{
+			"action": "Place image",
+			"mac": "Cmd + Shift + K",
+			"windows": "Ctrl + Shift + K",
+			"description": "Place an image"
+		},
+		{
+			"action": "Set opacity to 0%",
+			"mac": "0 0",
+			"windows": "0 0",
+			"description": "Set opacity to 0%"
+		},
+		{
+			"action": "Set opacity to 10%",
+			"mac": "1",
+			"windows": "1",
+			"description": "Set opacity to 10%"
+		},
+		{
+			"action": "Set opacity to 50%",
+			"mac": "5",
+			"windows": "5",
+			"description": "Set opacity to 50%"
+		},
+		{
+			"action": "Set opacity to 100%",
+			"mac": "0",
+			"windows": "0",
+			"description": "Set opacity to 100%"
+		}
+	],
+	"Arrange": [
+		{
+			"action": "Bring forward",
+			"mac": "Cmd + ]",
+			"windows": "Ctrl + [",
+			"description": "Bring an item forward"
+		},
+		{
+			"action": "Bring backward",
+			"mac": "Cmd + [",
+			"windows": "Ctrl + [",
+			"description": "Bring an item backward"
+		},
+		{
+			"action": "Bring to front",
+			"mac": "]",
+			"windows": "]",
+			"description": "Bring an item to front"
+		},
+		{
+			"action": "Send to back",
+			"mac": "[",
+			"windows": "[",
+			"description": "Send an item to back"
+		},
+		{
+			"action": "Align left/right",
+			"mac": "Option + A and D",
+			"windows": "Alt + A and D",
+			"description": "Align an item left/right"
+		},
+		{
+			"action": "Align top/bottom",
+			"mac": "Option + W and S",
+			"windows": "Alt + W and S",
+			"description": "Align an item top/bottom"
+		},
+		{
+			"action": "Align centers",
+			"mac": "Option + H and V",
+			"windows": "Alt + H and V",
+			"description": "Align centers of items"
+		},
+		{
+			"action": "Distribute spacing",
+			"mac": "Option + Shift + H and V",
+			"windows": "Alt + Shift + H and V",
+			"description": "Distribute spacing"
+		},
+		{
+			"action": "Tidy up",
+			"mac": "CMd + Option + Shift + T",
+			"windows": "Ctrl + Alt + Shift + T",
+			"description": "Tidy up selection"
+		},
+		{
+			"action": "Add auto layout",
+			"mac": "Shift + A",
+			"windows": "Shift + A",
+			"description": "Add auto layout"
+		},
+		{
+			"action": "Remove auto layout",
+			"mac": "Option + Shift + A",
+			"windows": "Alt + Shift + A",
+			"description": "Remove auto layout"
+		},
+		{
+			"action": "Suggest auto layout",
+			"mac": "Cmd + Option + Shift + A",
+			"windows": "Ctrl + Alt + Shift + A",
+			"description": "Suggest auto layout"
+		}
+	],
+	"Components": [
+		{
+			"action": "Show assets",
+			"mac": "Option + 2",
+			"windows": "Alt + 2",
+			"description": "Show assets"
+		},
+		{
+			"action": "Team library",
+			"mac": "Option + 3",
+			"windows": "Alt + 3",
+			"description": "Show Team library"
+		},
+		{
+			"action": "Create component",
+			"mac": "Cmd + Option K",
+			"windows": "Ctrl + Alt + K",
+			"description": "Create a component"
+		},
+		{
+			"action": "Detach instance",
+			"mac": "Cmd + Option + B",
+			"windows": "Ctrl + Alt B",
+			"description": "Detach an instance"
+		},
+		{
+			"action": "Component search",
+			"mac": "Shift + I",
+			"windows": "Shift + I",
+			"description": "Search a component"
+		},
+		{
+			"action": "Swap component instance",
+			"mac": "Option",
+			"windows": "Alt",
+			"description": "While inserting a component"
+		}
+	]
+}
